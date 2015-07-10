@@ -1,0 +1,26 @@
+{
+  "name": "aws-api-gateway-graphql",
+  "version": "0.1.0",
+  "description": "GraphQL for Amazon API Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ljcio/aws-api-gateway-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "aws"
+  ],
+  "author": "Liam Cardenas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ljcio/aws-api-gateway-graphql/issues"
+  },
+  "homepage": "https://github.com/ljcio/aws-api-gateway-graphql",
+  "dependencies": {
+    "graphql": "^0.1.3"
+  }
+}
